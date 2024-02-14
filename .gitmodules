@@ -1,0 +1,3 @@
+[submodule "shop-react"]
+	path = shop-react
+	url = https://github.com/DavidGlasberg/ShopWeb.git
